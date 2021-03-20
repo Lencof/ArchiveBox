@@ -1,3 +1,5 @@
+import os
+import sys
 import json
 import setuptools
 from setuptools.command.test import test
